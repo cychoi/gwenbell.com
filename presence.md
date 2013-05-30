@@ -3,7 +3,7 @@
 Presence
 --------
 
-**Limited Time Offer** On June 1st 2013 at 1pm EST, the price of Presence goes up to $125. If you buy right now, you'll get all of the collected work in Presence, as well as the newest, Terminal, for only $97. Buy now, save $28.
+**Limited Time Offer** On May 3st 2013 at 1pm EST, the price of Presence goes up to $125. If you buy right now, you'll get all of the collected work in Presence, as well as the newest, Terminal, for only $97. Buy now, save $28.
 
 ### <del style="color: #999;">$125</del> $97
 
@@ -89,7 +89,7 @@ Align your real self with your digital self. My path from scrolling for empathy 
 
 ### Buy Presence + Terminal now.
 
-**Limited Time Offer** On June 1st 2013 at 1pm EST, the price of Presence goes up to $125. If you buy right now, you'll get all of the collected work in Presence + Terminal for only <del>$125</del> $97. Buy now, save $28.
+**Limited Time Offer** On May 31st 2013 at 1pm EST, the price of Presence goes up to $125. If you buy right now, you'll get all of the collected work in Presence + Terminal for only <del>$125</del> $97. Buy now, save $28.
 
 <hr />
 
