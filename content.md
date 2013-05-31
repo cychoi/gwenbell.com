@@ -1,1 +1,3 @@
-<a href="http://gwenbell.com/presence"><img src="/images/presence.jpg" style="border: 1px solid #ccc; padding:4px; width=100%; box-shadow: 1px 3px 3px #ccc;"></a>
+##Sustainable Crowdfunding Open Call, 30 May 2013
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/l1-3AYgZRFQ" frameborder="0" allowfullscreen></iframe>
