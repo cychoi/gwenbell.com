@@ -8,7 +8,9 @@ Presence
 
 ### What is presence?
 
-Presence is a distillation of the best I've offered the past three years. It includes as a bonus my most recent work, Terminal.
+Presence is a distillation of the best I've offered over the past three years. The journey starts in Boulder, Colorado and ends in Brooklyn, New York. 
+
+Presence includes as a bonus my most recent work, Terminal.
 
 ***
 
@@ -18,11 +20,9 @@ Presence is a distillation of the best I've offered the past three years. It inc
 
 #### Gwen Bell | June 2013
 
-Terminal is a technology book dedicated to making the hidden visible. As I became a programmer, I realized much of the mystique around being a programmer happens on the command line. I wrote Terminal to demystify things. For a programmer, the terminal is how you access the guts of your machine; this is an access point to those guts.
+Terminal is a technology book dedicated to making the hidden visible. As I became a programmer, I realized much of the mystique around being a programmer happens on the command line. I wrote Terminal to demystify things. For a programmer, the terminal is how you access the guts of your machine; this is an access point to those guts. Terminal is a collection of interviews to guide you onto the command line and into the world of programming.
 
-Terminal offers the why of computing as you read the how of [Git Commit](http://git.gwenbell.com). I cover thirty days on the command line in Git Commit, and before you even approach the terminal, you have to have some idea why the terminal exists and why it matters. Get that in Terminal.
-
-Terminal is a collection of interviews to guide you onto the command line and into the world of programming.
+Terminal offers the why of computing as you read the how of [Git Commit](http://git.gwenbell.com). I cover thirty days on the command line in Git Commit, and before you even approach the terminal, you have to have some idea why the terminal exists and why it matters. If you don't already have it, you'll get that in Terminal.
 
 **Technical Skill Level: Intermediate | HTML | Included in Presence
 
