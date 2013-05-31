@@ -2,12 +2,7 @@
 
 Presence
 --------
-
-**Limited Time Offer** On May 3st 2013 at 1pm EST, the price of Presence goes up to $125. If you buy right now, you'll get all of the collected work in Presence, as well as the newest, Terminal, for only $97. Buy now, save $28.
-
-### <del style="color: #999;">$125</del> $97
-
-<a href="http://gwenbell.fetchapp.com/sell/evaeroda/ppc"><button style="font-size: 1.2em; font-weight: normal;">Buy Now</button></a>
+<a href="http://gwenbell.fetchapp.com/sell/evaeroda/ppc"><button style="font-size: 1.2em; font-weight: normal;">Buy Now | $125</button></a>
 
 ***
 
@@ -29,7 +24,7 @@ Terminal offers the why of computing as you read the how of [Git Commit](http://
 
 Terminal is a collection of interviews to guide you onto the command line and into the world of programming.
 
-**Technical Skill Level: Intermediate | HTML | Included in Presence  <del>$125</del> $97* ** 
+**Technical Skill Level: Intermediate | HTML | Included in Presence
 
 ***
 
@@ -87,17 +82,9 @@ Align your real self with your digital self. My path from scrolling for empathy 
 
 ***
 
-### Buy Presence + Terminal now.
+I would not have become a programmer if I had not done the things that I rolled into _Presence_. It's every conversation, every experiment, every resource - everything I used to get to where I am now, doing what I love every day. I'm not saying you have to take the same path, I'm saying this is the path I took; I've illuminated what's ahead. 
 
-**Limited Time Offer** On May 31st 2013 at 1pm EST, the price of Presence goes up to $125. If you buy right now, you'll get all of the collected work in Presence + Terminal for only <del>$125</del> $97. Buy now, save $28.
-
-<hr />
-
-I would not have become a programmer if I had not done the things that I rolled into _Presence_. This is the path I took; I've illuminated what's ahead. 
-
-### <del style="color: #999;">$125</del> $97
-
-<a href="http://gwenbell.fetchapp.com/sell/evaeroda/ppc"><button style="font-size: 1.2em; font-weight: normal;">Buy Now</button></a>
+<a href="http://gwenbell.fetchapp.com/sell/evaeroda/ppc"><button style="font-size: 1.2em; font-weight: normal;">Buy Now | $125</button></a>
 
 <img src="images/gwenbell-may-2013.jpg" style="width: 20%; float: left; margin-right: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;">
 
