@@ -1,7 +1,7 @@
 ###Stream
 
-1 June 2013 | Excited about Shop Talk. 40 people signed up in the first coupla hours.
-1 June 2013 | Listening to Jaydiohead, drinking lemonade no sugar. Sweating. Deleting.
++ 1 June 2013 | Excited about Shop Talk. 40 people signed up in the first coupla hours.
++ 1 June 2013 | Listening to Jaydiohead, drinking lemonade no sugar. Sweating. Deleting.
 
 ###Hearbeat
 
@@ -16,7 +16,7 @@ I'm Gwen Bell. I live at 81A Hart Street in Brooklyn, New York. I am a developer
 </div>
 
 
-I think Git is magic and <a href="http://gittip.com/gwenbell">Gittip</a> is the future.
+I think <a href="http://git.gwenbell.com">Git is magic</a> and <a href="http://gittip.com/gwenbell">Gittip</a> is the future.
 <br />
 
 <script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script>
