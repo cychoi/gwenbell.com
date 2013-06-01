@@ -1,7 +1,7 @@
 About
 =====
 
-As of June 2013 I'm a technical writer and Node.js programmer in Brooklyn, New York. Here's my [open source report card](http://osrc.dfm.io/gwenbell).
+As of June 2013 I'm a [technical writer](http://git.gwenbell.com) and [Node.js programmer](http://bitters.gwenbell.com) in Brooklyn, New York. Here's my [open source report card](http://osrc.dfm.io/gwenbell).
 
 In 2012 I lived and wrote from Berlin, SF, Mexico, Singapore and Japan. I spent 3 months in each location. As I traveled, I searched for what's next in tech. I didn't find it, so I taught myself to program.
 
