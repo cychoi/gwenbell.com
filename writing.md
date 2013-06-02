@@ -1,9 +1,10 @@
 Writing
 =======
 
-Hey, GB. Where'd that one piece go? <-- I Git Commit this site. Check [the logs](https://github.com/gwenbell/gwenbell.com) for a disappeared piece.
+**If you get nutrients from the work I do, please help the flowers grow. Suggested donation: $12/week. Contribute now on [Gittip](https://www.gittip.com/gwenbell/) (transparent) or [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gwen%40gwenbell%2ecom&lc=US&item_name=Gwen%20Bell&item_number=distributed%20genius%20grant&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) (opaque).**
 
-###The Genius in You, or Total Buy-in
+
+###The Genius in You; or, Total Buy-in
 
 **If you get nutrients from the work I do, please support it. Suggested donation: $12/week. Contribute now on [Gittip](https://www.gittip.com/gwenbell/) (transparent) or [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gwen%40gwenbell%2ecom&lc=US&item_name=Gwen%20Bell&item_number=distributed%20genius%20grant&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) (opaque).**
 
@@ -87,4 +88,4 @@ And I do.
 Brooklyn, New York <br />
 Edited 2 June 2013 <br />
 
-Hey, GB. Where'd that one piece go? <-- I Git Commit this site. Check [the logs](https://github.com/gwenbell/gwenbell.com) for a disappeared piece.
+Hey, GB. Where'd that one piece go? <-- I [Git Commit](http://git.gwenbell.com) this site. Check [the logs](https://github.com/gwenbell/gwenbell.com) for a disappeared piece.
