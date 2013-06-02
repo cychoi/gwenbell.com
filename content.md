@@ -1,5 +1,6 @@
 ###Stream
 
++ 2 June 2013 | Diving into Python with the ceiling fan going overhead.
 + 2 June 2013 | Writing about compersion. Studied Python this morning.
 + 2 June 2013 | Blank slating much of the site. What's left is love.
 + 1 June 2013 | Excited about Shop Talk. 40 people signed up in the first coupla hours.
