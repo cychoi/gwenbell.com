@@ -1,7 +1,7 @@
 Writing
 =======
 
-**Hey, GB. Where'd that one piece go? <-- everything is Git Committed, check [the logs](http://github.com/gwenbell)**
+Hey, GB. Where'd that one piece go? <-- I Git Commit this site. Check [the logs](https://github.com/gwenbell/gwenbell.com) for a disappeared piece.
 
 ###The Genius in You, or Total Buy-in
 
@@ -86,3 +86,5 @@ And I do.
 10 May 2013 <br />
 Brooklyn, New York <br />
 Edited 2 June 2013 <br />
+
+Hey, GB. Where'd that one piece go? <-- I Git Commit this site. Check [the logs](https://github.com/gwenbell/gwenbell.com) for a disappeared piece.
