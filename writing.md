@@ -1,9 +1,6 @@
 Writing
 =======
 
-**If you get nutrients from the work I do, please help the flowers grow. Suggested donation: $12/week. Contribute now on [Gittip](https://www.gittip.com/gwenbell/) (transparent) or [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gwen%40gwenbell%2ecom&lc=US&item_name=Gwen%20Bell&item_number=distributed%20genius%20grant&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) (opaque).**
-
-
 ###The Genius in You; or, Total Buy-in
 
 **If you get nutrients from the work I do, please support it. Suggested donation: $12/week. Contribute now on [Gittip](https://www.gittip.com/gwenbell/) (transparent) or [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gwen%40gwenbell%2ecom&lc=US&item_name=Gwen%20Bell&item_number=distributed%20genius%20grant&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) (opaque).**
