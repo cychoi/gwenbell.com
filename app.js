@@ -29,9 +29,11 @@ if ('development' == app.get('env')) {
 
 app.get('/', routes.index);
 app.get('/about', routes.about);
+app.get('/bitters', routes.bitters);
+app.get('/git', routes.git);
+app.get('/presence', routes.presence);
 app.get('/responses', routes.responses);
 app.get('/writing', routes.writing);
-app.get('/presence', routes.presence);
 app.get('*', routes.index);
 
 http.createServer(app).listen(app.get('port'), function(){
