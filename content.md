@@ -1,5 +1,6 @@
 ###Stream
 
++ 5 June 2013 | Blowin' their minds at [Flatiron School](http://flatironschool.com)
 + 4 June 2013 | Walked [nearly 15 miles today](https://twitter.com/gwenbell/status/342100407125954560/photo/1). Holy.
 + 2 June 2013 | Diving into Python with the ceiling fan going overhead.
 + 2 June 2013 | Writing about compersion. Studied Python this morning.
