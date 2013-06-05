@@ -2,13 +2,17 @@
 
 Presence
 --------
-<a href="http://gwenbell.fetchapp.com/sell/evaeroda/ppc"><button style="font-size: 1.2em; font-weight: normal;">Buy Now | $125</button></a>
+### <del style="color: #999;">$275</del> $125 
+
+<a href="http://gwenbell.fetchapp.com/sell/evaeroda/ppc"><button style="font-size: 1.2em; font-weight: normal;">Buy Now</button></a>
 
 ***
 
 ### What is presence?
 
-Presence is a distillation of the best I've offered over the past three years. The journey starts in Boulder, Colorado and ends in Brooklyn, New York. 
+Presence is everything you need to unhook from digital drama, delete what you don't need anymore, take a digital sabbatical, mourn the loss of old technologies and lay the foundation to learn harder tech skills, like Git and Node.
+
+It's a distillation of the best I've offered over the past three years. The journey starts in Boulder, Colorado and ends in Brooklyn, New York. 
 
 Presence includes as a bonus my most recent work, Terminal.
 
@@ -84,13 +88,12 @@ Align your real self with your digital self. My path from scrolling for empathy 
 
 I would not have become a programmer if I had not done the things that I rolled into _Presence_. It's every conversation, every experiment, every resource - everything I used to get to where I am now, doing what I love every day. I'm not saying you have to take the same path, I'm saying this is the path I took; I've illuminated what's ahead. 
 
-<a href="http://gwenbell.fetchapp.com/sell/evaeroda/ppc"><button style="font-size: 1.2em; font-weight: normal;">Buy Now | $125</button></a>
+### <del style="color: #999;">$275</del> $125 
 
-<img src="images/gwenbell-may-2013.jpg" style="width: 20%; float: left; margin-right: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;">
+<a href="http://gwenbell.fetchapp.com/sell/evaeroda/ppc"><button style="font-size: 1.2em; font-weight: normal;">Buy Now</button></a><img src="images/gwenbell-may-2013.jpg" style="width: 20%; float: left; margin-right: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;">
 
-Gwen Bell<br />
+<a href=mailto:"gwen@gwenbell.com">Gwen Bell</a><br />
 81 A Hart Street <br />
 Brooklyn, New York <br />
-May 2013 <br />
 
 <hr />
