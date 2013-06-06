@@ -1,7 +1,10 @@
 Writing
 -------
+####Update: Flatiron School | 6 June 2013
 
-####The Genius in You; or, Total Buy-in
+The peeps at Flatiron School were generous enough to host me yesterday to give a talk on Git. Here's [a pic and interview](http://blog.flatironschool.com/post/52299707175/guest-speaker-gwen-bell)!
+
+####The Genius in You; or, Total Buy-in | 10 May 2013, updated 2 June 2013 
 
 <p class="lead">What if you could let the part of your brain stamped EARN rest for a while? Or forever?</p>
 
