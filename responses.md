@@ -1,7 +1,7 @@
 Readers Respond
 ---------------
 
-###May + June 2013
+####May + June 2013
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p>.<a href="https://twitter.com/gwenbell">@gwenbell</a> just dropped git AND Harry Potter knowledge to the new summer Flatiron students <a href="http://t.co/vkQjQFoUln">pic.twitter.com/vkQjQFoUln</a></p>&mdash; Flatiron School (@FlatironSchool) <a href="https://twitter.com/FlatironSchool/statuses/342352624194027520">June 5, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
