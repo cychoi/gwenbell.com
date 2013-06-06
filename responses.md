@@ -3,6 +3,9 @@ Readers Respond
 
 ###May + June 2013
 
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p>.<a href="https://twitter.com/gwenbell">@gwenbell</a> just dropped git AND Harry Potter knowledge to the new summer Flatiron students <a href="http://t.co/vkQjQFoUln">pic.twitter.com/vkQjQFoUln</a></p>&mdash; Flatiron School (@FlatironSchool) <a href="https://twitter.com/FlatironSchool/statuses/342352624194027520">June 5, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p>This looks like good Saturday night fun: <a href="http://t.co/f8yaZsDjzG">http://t.co/f8yaZsDjzG</a> thanks to <a href="https://twitter.com/gwenbell">@gwenbell</a></p>&mdash; Wes Packer (@wespacker) <a href="https://twitter.com/wespacker/statuses/340904945622609920">June 1, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
