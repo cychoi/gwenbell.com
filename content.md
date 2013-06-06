@@ -1,5 +1,6 @@
 ###Stream
 
++ 6 June 2013 | [Photo + interview](http://blog.flatironschool.com/post/52299707175/guest-speaker-gwen-bell) from yesterday's Git talk at Flatiron -- thank you for the snap, Kelly!
 + 5 June 2013 | Blowin' their minds at [Flatiron School](http://flatironschool.com)
 + 4 June 2013 | Walked [nearly 15 miles today](https://twitter.com/gwenbell/status/342100407125954560/photo/1). Holy.
 + 2 June 2013 | Diving into Python with the ceiling fan going overhead.
@@ -10,7 +11,7 @@
 
 ###Vitals
 
-I'm Gwen Bell. I do web dev and write in Brooklyn, New York.
+I'm Gwen Bell. I git push origin master and publish technical writing from Brooklyn, New York.
 
 <script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script>
 
