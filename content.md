@@ -4,20 +4,14 @@
 + 5 June 2013 | Blowin' their minds at [Flatiron School](http://flatironschool.com)
 + 4 June 2013 | Walked [nearly 15 miles today](https://twitter.com/gwenbell/status/342100407125954560/photo/1). Holy.
 + 2 June 2013 | Diving into Python with the ceiling fan going overhead.
-+ 2 June 2013 | Writing about compersion. Studied Python this morning.
-+ 2 June 2013 | Blank slating much of the site. What's left is love.
-+ 1 June 2013 | Excited about Shop Talk. 40 people signed up in the first coupla hours.
-+ 1 June 2013 | Listening to Jaydiohead, drinking lemonade no sugar. Sweating. Deleting.
 
-###Vitals
+<img src="images/gb-flatiron-6-june-2013.jpg" style="width: 100%; float: none; margin-right: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;">
 
-I'm Gwen Bell. I git push origin master and publish technical writing from Brooklyn, New York.
+I'm Gwen Bell. I git push origin master and publish technical writing from Brooklyn, New York. That up there's me teaching Git on 5 June 2013. [Check, check](http://blog.flatironschool.com/post/52299707175/guest-speaker-gwen-bell).
 
 <script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script>
 
 <br />
-
-New list as of 1 June 2013. Dev shop talk. Right now there are <script type="text/javascript" language="JavaScript" src="http://gwenbell.us7.list-manage.com/subscriber-count?b=00&u=ac10ba0f-6fd2-4627-94f8-530415f47ff6&id=354f3e7685"></script> of you here.
 
 <div id="mc_embed_signup">
 <form action="http://gwenbell.us7.list-manage2.com/subscribe/post?u=9a3b9ea24469d6d86a5bd1626&amp;id=354f3e7685" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -28,4 +22,5 @@ New list as of 1 June 2013. Dev shop talk. Right now there are <script type="tex
 
 </form>
 </div>
+As of 1 June 2013, new list: Dev Shop Talk. Currently there are <script type="text/javascript" language="JavaScript" src="http://gwenbell.us7.list-manage.com/subscriber-count?b=00&u=ac10ba0f-6fd2-4627-94f8-530415f47ff6&id=354f3e7685"></script> of you here.
 <hr />
