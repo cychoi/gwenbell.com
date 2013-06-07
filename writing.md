@@ -1,7 +1,7 @@
 Writing
 -------
 
-<img src="gb-flatiron-6-june-2013.jpg" />
+<img src="images/gb-flatiron-6-june-2013.jpg" style="width: 100%; float: none; margin-right: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;">
 
 ####Update: Flatiron School | 6 June 2013
 
