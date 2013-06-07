@@ -1,7 +1,12 @@
-Readers Respond
----------------
+Endorsements
+------------
 
 ####May + June 2013
+
+Let me tell you something. I could not pay people to say more honest shit about the work I do. I guess it [goes both ways](https://www.gittip.com/gwenbell/horn/). I didn't pay them, and they buy my work, and they don't get a cut of what I make. Still, they say some things in public I should probably be paying them to say.
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p><a href="https://twitter.com/gwenbell">@gwenbell</a> <a href="https://twitter.com/ForbesMadeleine">@ForbesMadeleine</a> Loved that piece Madeleine. I&#39;ve also cursed at Gwen for similar reasons! I&#39;m happily in the <a href="https://twitter.com/search?q=%23git&amp;src=hash">#git</a> trenches too.</p>&mdash; Dave Lukas (@DaveLukas) <a href="https://twitter.com/DaveLukas/statuses/343091382216433667">June 7, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p>.<a href="https://twitter.com/gwenbell">@gwenbell</a> just dropped git AND Harry Potter knowledge to the new summer Flatiron students <a href="http://t.co/vkQjQFoUln">pic.twitter.com/vkQjQFoUln</a></p>&mdash; Flatiron School (@FlatironSchool) <a href="https://twitter.com/FlatironSchool/statuses/342352624194027520">June 5, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
