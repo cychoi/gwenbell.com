@@ -5,7 +5,7 @@
 + 4 June 2013 | Walked [nearly 15 miles today](https://twitter.com/gwenbell/status/342100407125954560/photo/1). Holy.
 + 2 June 2013 | Diving into Python with the ceiling fan going overhead.
 
-<img src="images/gb-flatiron-6-june-2013.jpg" style="width: 100%; float: none; margin-right: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;">
+<hr />
 
 I'm Gwen Bell. I git push origin master and publish technical writing from Brooklyn, New York. That up there's me teaching Git on 5 June 2013. [Check, check](http://blog.flatironschool.com/post/52299707175/guest-speaker-gwen-bell).
 
@@ -24,3 +24,5 @@ I'm Gwen Bell. I git push origin master and publish technical writing from Brook
 </div>
 As of 1 June 2013, new list: Dev Shop Talk. Currently there are <script type="text/javascript" language="JavaScript" src="http://gwenbell.us7.list-manage.com/subscriber-count?b=00&u=ac10ba0f-6fd2-4627-94f8-530415f47ff6&id=354f3e7685"></script> of you here.
 <hr />
+
+<img src="images/gb-flatiron-6-june-2013.jpg" style="width: 100%; float: none; margin-right: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;" />
