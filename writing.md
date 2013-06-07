@@ -1,8 +1,11 @@
 Writing
 -------
+
+<img src="gb-flatiron-6-june-2013.jpg" />
+
 ####Update: Flatiron School | 6 June 2013
 
-The peeps at Flatiron School were generous enough to host me yesterday to give a talk on Git. Here's [a pic and interview](http://blog.flatironschool.com/post/52299707175/guest-speaker-gwen-bell)!
+The peeps at Flatiron School hosted me yesterday to give a talk on Git. Here's [a pic and interview](http://blog.flatironschool.com/post/52299707175/guest-speaker-gwen-bell)!
 
 ####The Genius in You; or, Total Buy-in | 10 May 2013, updated 2 June 2013 
 
@@ -16,7 +19,7 @@ My two favorite shows of all time are Six Feet Under and The Wire.
 
 I watched all six seasons as I learned to program in 2012. I thank the last episode of the final season for getting me to New York.
 
-My other favorite show is The Wire, which I almost gave up on during the first episode because I was bored stiff. I stayed with it only because [Madeleine Forbes](http://madeleineforbes.co.uk) and Ev were all, "give it a chance, man," and now I love it.
+My other favorite show is The Wire, which I almost gave up on during the first episode because I was bored stiff. I stayed with it only because Madeleine Forbes and Ev were all, "give it a chance, man," and now I love it.
 
 <hr />
 
