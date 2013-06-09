@@ -16,3 +16,5 @@ I got my first laptop the same year I started practicing yoga, 1999. In 2004 I t
 <a href="http://experiencelife.com/video/behind-the-scenes-with-gwen-bell/">Experience Life Magazine</a><br />
 
 <hr />
+
+<a href="http://blog.flatironschool.com/"><img src="images/gb-flatiron-6-june-2013.jpg" style="width: 100%; float: none; margin-right: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;" /></a>
