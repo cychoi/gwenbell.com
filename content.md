@@ -24,5 +24,3 @@ I'm Gwen Bell. I git push origin master and publish technical writing from Brook
 </div>
 As of 1 June 2013, new list: Dev Shop Talk. Currently there are <script type="text/javascript" language="JavaScript" src="http://gwenbell.us7.list-manage.com/subscriber-count?b=00&u=ac10ba0f-6fd2-4627-94f8-530415f47ff6&id=354f3e7685"></script> of you here.
 <hr />
-
-<img src="images/gb-flatiron-6-june-2013.jpg" style="width: 100%; float: none; margin-right: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;" />
