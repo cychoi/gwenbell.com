@@ -7,7 +7,7 @@
 
 <hr />
 
-I'm Gwen Bell. I git push origin master and publish technical writing from Brooklyn, New York. That up there's me teaching Git on 5 June 2013. [Check, check](http://blog.flatironschool.com/post/52299707175/guest-speaker-gwen-bell).
+I'm Gwen Bell. I git push origin master and publish technical writing from Brooklyn, New York.
 
 <script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script>
 
