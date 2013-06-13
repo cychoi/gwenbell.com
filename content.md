@@ -1,6 +1,7 @@
 ###Stream
 
-+ 12 June 2013 | [Open call number two with Gittip founder, Chad Whitacre](http://www.youtube.com/watch?v=AmHuTYPt0fE#t=53m02s). Becoming a regular guest! He live-merged my pull request!
++ 13 June 2013 | [Learn Python the Hard Way, Chapter 4. Variables and Names](http://learnpythonthehardway.org/book/ex4.html)
++ 12 June 2013 | [Open call number two with Gittip founder, Chad Whitacre](http://www.youtube.com/watch?v=AmHuTYPt0fE#t=53m02s) Becoming a regular guest! He live-merged my pull request!
 + 12 June 2013 | Yeezus.
 + 6 June 2013 | [Photo + interview](http://blog.flatironschool.com/post/52299707175/guest-speaker-gwen-bell) from yesterday's Git talk at Flatiron -- thank you for the snap, Kelly!
 + 5 June 2013 | Blowin' their minds at [Flatiron School](http://flatironschool.com)
