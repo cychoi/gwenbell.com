@@ -1,5 +1,105 @@
-Writing
--------
+###Writing
+
+####Polylog
+
+**Growing? Donate! Try $12/week. Contribute on [Gittip](https://www.gittip.com/gwenbell/).**
+
+Last night I sat in front of a fire at a rooftop dance party in Bushwick, New York. I was drinking a Weihenstephan, the world's oldest beer. I let the bass from the dj's speakers vibrate me. 
+
+As I listened and drank and watched the fire, I interviewed someone, the artist who has the claw-footed bath tub in his bedroom. When he walks into a room, clothes start dropping. 
+
+I wanted to know his secret, so I asked for an interview. As we talked, his arm draped around my shoulder, the smell of his sweat mixing with mine, it was just. So. 
+
+I derive pleasure from other people's pleasure. In the poly world, there's a word for it. It's called **compersion**.
+
+Though I'm not currently in, nor actively seeking a poly relationship, I have been 1/3 of a poly relationship. I was intrigued as I read about compersion, because I feel it so often and in all my reading and travels, I'd never heard of it. 
+
+I think compersion is **the** secret the mainstream monogamous community doesn't want you to know about. As though the mono culture will break when you derive pleasure from someone else's pleasure. 
+
+Instead, it focuses on drama and jealousy. Two indicators there's a paucity of people and pleasure, and you gotta fight for what's yours. I say there's _more than enough_. There is no _yours_.
+
+So, let's focus on compersion, the other side of the coin.
+
+<hr />
+
+Compersion. There was this time in Sayulita, Mexico when I watched this woman add cream to her coffee. Her hair was long and bleached blonde, and her dining partner had his arm around her shoulders and a little girl played at her feet. She had about twenty-three bracelets on her left wrist. She was wearing sunglasses. There is no way I could ever pull off that look, nor would I necessarily want to. 
+
+Instead, I enjoyed her enjoying herself.
+
+As I watched her take that first sip of her coffee, there at the restaurant. I felt it. I mean, of course, I can't feel what she feels, but I felt **compersion** Just seeing her delight, her love directed at that child, her excitement with her partner, and the delicious coffee to boot.
+
+<hr />
+
+I wish we talked about compersion more. Rappers rap a lot about jealousy, and recently I've talked about it, too. But I don't do jealousy. I almost never experience jealousy. I do compersion. I feel _that_ daily.
+
+The polylog is a dedication to all the things that turn me on. My turn ons are legion.
+
+There's a section or two on compersion in [The Ethical Slut](https://en.wikipedia.org/wiki/The_Ethical_Slut). If you want some new sources of pleasure, or at least tittilating conversation, buy a copy and read that book in public.
+
+<hr />
+
+After the conversation with the artist on how he turns the room on, I had a conversation with a fellow developer. I asked him questions, too. He had a harder time getting at what brings him pleasure. He wasn't even sure which programming languages he enjoyes programming in. 
+
+So, I'm bringing two worlds I respect together here. The analytical world on the terminal needs access to this world of pleasure. You could start a pleasure log if you want. Or just take a little pleasure from the pleasure I take. Practice compersion.
+
+####June 2013 Polylog: Things that turn me on (not all examples of compersion)
+
++ [Bad](http://rapgenius.com/Wale-bad-lyrics). I love this song right now. Wale (pronounced wah-lay) gets it. Tiara Thomas gets it. Fucking sexy.
+
++ Dreads. Long dreads that smell like earth. Maybe Wale started or continues a trend.
+
++ Rooftop dance parties in Brooklyn. Yahahahah.
+
++ When someone says they read something I wrote and it lit them up
+
++ Drinking just-off-the-boil espresso from a tiny sake cup
+
++ Tiny gardens, hidden in nooks in huge cities. Like leaves growing in cracks in the pavement.
+
++ Talking with dead people. I was grateful to write Terminal last month. Grateful the faeries were willing to act as medium
+
++ Nina Simone's voice
+
++ Hot, slow, long baths
+
+Compersion. I'll keep adding to the polylog as it occurs to me to do so. For now, I gotta go do lesson four of Learn Python the Hard Way. Because that's what Gittip is built on, Python. And I derive pleasure from contributing to the open source world.
+
+**Wayback machine (never published): Jan 2011**
+
+I have an amazing amount of clarity right now. Thing about clarity is the moment I start talking about it, like flow, it's gone. But I still want to write while I'm in this place, without saying "oh, that wasn't that clear oh that wasn't really that indicative of clarity."
+
+Just as I am, on the spot. Here's what I've got.
+
+I keep trying to trace it back. Was it when Ev showed up. Was it the Digital Sabbatical. Was it when I stopped wearing my ring and thinking about myself as trapped in a marriage. Was it a place? Was it a phrase? Was it a book? Was it the Sakyong? Was it a decade of practice finally clicking into place? 
+
+Whatever it was, here it is. Here I am.
+
+Each day an empty cup. Each decision from a place of clarity.
+
+If it feels muddled I walk away, I reapproach.
+
+Was it shredding my journals? Was it the blank slate? Was it stopping thinking about myself in a particular fixed-notion way?
+
+The blank slate allowed me to see the labels I'd applied to myself. Now I'm asking which ones still work. Which work is the work. Which way the way.
+
+And what I'm seeing is there is only one way: presence.
+
+Cultivating [presence](http://gwenbell.com/presence) not for some reward. Not for material or spiritual gain. But just cultivating presence. Speaking from a place closer to the source, closer to the truth. Always, closer to truth.
+
+That place of truth presents itself endlessly. I have failed to notice before, but I fail to notice less now.
+
+Committing only in alignment, never in duress, never out of a sense of obligation.
+
+Not one sentence longer than obligated.
+
+12 June 2013 and January 2011 <br />
+Brooklyn, New York and Boulder, Colorado <br />
+
+<hr />
+
+**Hey, you read. And that was a lot of readin. Thanks for staying with it. Suggested donation: $12/week. Contribute now on [Gittip](https://www.gittip.com/gwenbell/). Thanks for doing so.**
+
+<br />
 
 <img src="images/gb-flatiron-6-june-2013.jpg" style="width: 100%; float: none; margin-right: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;">
 
