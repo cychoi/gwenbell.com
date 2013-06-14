@@ -1,5 +1,6 @@
 ###Stream
 
++ 13 June 2013 | Fired up own VPS and my brain hurts from proxy tabling
 + 13 June 2013 | [Learn Python the Hard Way, Chapter 4. Variables and Names](http://learnpythonthehardway.org/book/ex4.html)
 + 12 June 2013 | [Open call number two with Gittip founder, Chad Whitacre](http://www.youtube.com/watch?v=AmHuTYPt0fE#t=53m02s) Becoming a regular guest! He live-merged my pull request!
 + 12 June 2013 | Yeezus.
