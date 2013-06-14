@@ -2,7 +2,8 @@
 
 ####Polylog
 
-**Growing? Donate! Try $12/week. Contribute on [Gittip](https://www.gittip.com/gwenbell/).**
+<p><script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script></p>
+
 
 Last night I sat in front of a fire at a rooftop dance party in Bushwick, New York. I was drinking a Weihenstephan, the world's oldest beer. I let the bass from the dj's speakers vibrate me. 
 
@@ -92,14 +93,14 @@ Committing only in alignment, never in duress, never out of a sense of obligatio
 
 Not one sentence longer than obligated.
 
+<br />
+
+<script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script> **Growing? Make that number go up!**
+
 12 June 2013 and January 2011 <br />
 Brooklyn, New York and Boulder, Colorado <br />
 
 <hr />
-
-**Hey, you read. And that was a lot of readin. Thanks for staying with it. Suggested donation: $12/week. Contribute now on [Gittip](https://www.gittip.com/gwenbell/). Thanks for doing so.**
-
-<br />
 
 <img src="images/gb-flatiron-6-june-2013.jpg" style="width: 100%; float: none; margin-right: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;">
 
