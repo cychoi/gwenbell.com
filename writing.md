@@ -1,11 +1,17 @@
 ###Writing
 
+<a href="#polylog">Polylog</a> | <a href="#flatiron">Flatiron School</a> | <a href="#genius">The Genius in You</a>
+
+
+<blockquote>The state of mind which enables a man to do work of this kind is akin to that of the religious worshipper or lover. The daily effort comes from no deliberate intention or program, but straight from the heart. - Albert Einstein</blockquote>
+
+<a name="polylog"></a>
+
+<hr />
+
 ####Polylog
 
-<p><script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script></p>
-
-
-Last night I sat in front of a fire at a rooftop dance party in Bushwick, New York. I was drinking a Weihenstephan, the world's oldest beer. I let the bass from the dj's speakers vibrate me. 
+Last night I sat in front of a fire at a rooftop dance party at [The Schoolhouse](http://brooklyn-spaces.com/2011/09/the-schoolhouse/) in Bushwick, New York. I was drinking a Weihenstephan, the world's oldest beer. I let the bass from the dj's speakers vibrate me. 
 
 As I listened and drank and watched the fire, I interviewed someone, the artist who has the claw-footed bath tub in his bedroom. When he walks into a room, clothes start dropping. 
 
@@ -43,7 +49,7 @@ After the conversation with the artist on how he turns the room on, I had a conv
 
 So, I'm bringing two worlds I respect together here. The analytical world on the terminal needs access to this world of pleasure. You could start a pleasure log if you want. Or just take a little pleasure from the pleasure I take. Practice compersion.
 
-####June 2013 Polylog: Things that turn me on (not all examples of compersion)
+####June 2013 Polylog: Things that turn me on (not all examples of compersion) updated 14 June 2013
 
 + [Bad](http://rapgenius.com/Wale-bad-lyrics). I love this song right now. Wale (pronounced wah-lay) gets it. Tiara Thomas gets it. Fucking sexy.
 
@@ -63,9 +69,13 @@ So, I'm bringing two worlds I respect together here. The analytical world on the
 
 + Hot, slow, long baths
 
-Compersion. I'll keep adding to the polylog as it occurs to me to do so. For now, I gotta go do lesson four of Learn Python the Hard Way. Because that's what Gittip is built on, Python. And I derive pleasure from contributing to the open source world.
++ When someone [live-merges my pull request](http://youtu.be/AmHuTYPt0fE?t=53m33s)
 
-**Wayback machine (never published): Jan 2011**
++ Learning, then teaching something hard
+
+I'll keep adding to the polylog as it occurs to me to do so. For now, I gotta go do lesson four of Learn Python the Hard Way. Because that's what Gittip is built on, Python. And I get pleasure from contributing to the open source world.
+
+**Wayback machine (unpublished until June 2013): Jan 2011**
 
 I have an amazing amount of clarity right now. Thing about clarity is the moment I start talking about it, like flow, it's gone. But I still want to write while I'm in this place, without saying "oh, that wasn't that clear oh that wasn't really that indicative of clarity."
 
@@ -93,24 +103,27 @@ Committing only in alignment, never in duress, never out of a sense of obligatio
 
 Not one sentence longer than obligated.
 
-<br />
+<p><script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script></p>
 
-<script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script> **Growing? Make that number go up!**
+**Growing? Great. Grow the gittips!**
 
-12 June 2013 and January 2011 <br />
-Brooklyn, New York and Boulder, Colorado <br />
+<a name="flatiron"></a>
 
 <hr />
 
-<img src="images/gb-flatiron-6-june-2013.jpg" style="width: 100%; float: none; margin-right: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;">
+####Flatiron
 
-####Update: Flatiron School | 6 June 2013
+The peeps at Flatiron School hosted me yesterday to give a talk on [Git and Horcruxes](https://twitter.com/aviflombaum/status/342449132566364160).
 
-The peeps at Flatiron School hosted me yesterday to give a talk on Git. Here's [a pic and interview](http://blog.flatironschool.com/post/52299707175/guest-speaker-gwen-bell)!
+Peep [the pic and interview](http://blog.flatironschool.com/post/52299707175/guest-speaker-gwen-bell)!
 
-####The Genius in You; or, Total Buy-in | 10 May 2013, updated 2 June 2013 
+<a name="genius"></a>
 
-<p class="lead">What if you could let the part of your brain stamped EARN rest for a while? Or forever?</p>
+<hr />
+
+####The Genius in You; or, Total Buy-in
+
+**What if you could let the part of your brain stamped EARN rest for a while? Or forever?**
 
 I watched Synecdoche, New York. Then I walked from Brooklyn to Manhattan as the sun set. I walked a total of 16,557 steps, which according to my nano watch was 7.83 miles. I saw four condoms in various states of used. I saw two people sleeping on the street. I witnessed a woman with platinum hair run from one end to the other and back in the time it took me to get to the end of the Williamsburg bridge.
 
@@ -144,9 +157,9 @@ That has almost, but not quite, worked out.
 
 Anyway, Caden has The Resistance (which, by the way, is contagious), but there's something more pernicious at play. He spends the duration of the film trying to get buy-in. From anybody. His wife, his second wife, his daughter, the people in the play he's staging. He wants them to say: you're an alright kinda guy Caden. You're doing your best. And even when they _do_ say that, he never takes it to heart. He keeps berating himself, wishing he could get _total buy-in_ from _the whole world_. Failing that, he keeps plugging on this play, trying to get _it_ perfect. (Trying to get it perfect is a symptom of the Resistance. You have to hit publish, even if you think it's shit, which you always will. Think it's shit, that is.)
 
-The only person who can give you total buy-in on your life is you.
+**The only person who can give you total buy-in on your life is you.**
 
-There's no pleasure to this guy's life. He's so caught up in his own _dukkha_ which means dissatisfaction in Buddhist, that he can't see straight. Sure, he fucks but it's always sad. You know, like he's hoping he could perform a little better. He's weepy and self-absorbed. (Contrast that with self-contained.) 
+There's no pleasure to this guy's life. He's so caught up in his own _dukkha_ (dissatisfaction in Buddhist), he can't see straight. Sure, he fucks but it's always sad. You know, like he's hoping he could perform a little better. He's weepy and self-absorbed. (Contrast that with self-contained.) 
 
 He never merges with his lover. He holds her at arm's length, wanting, you guessed it. 
 
@@ -182,12 +195,6 @@ Because the person who has to demonstrate total buy-in is me.
 
 And I do.
 
-<hr />
+<p><script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script></p>
 
-**Does my work support yours? Please support it. Suggested donation: $12/week. Contribute now on [Gittip](https://www.gittip.com/gwenbell/) (transparent) or [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gwen%40gwenbell%2ecom&lc=US&item_name=Gwen%20Bell&item_number=distributed%20genius%20grant&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) (opaque).**
-
-10 May 2013 <br />
-Brooklyn, New York <br />
-Edited 2 June 2013 <br />
-
-Hey, GB. Where'd that one piece go? <-- I [Git Commit](http://git.gwenbell.com) this site. Check [the logs](https://github.com/gwenbell/gwenbell.com) for a disappeared piece.
+**Growing? Great. Grow the gittips!**
