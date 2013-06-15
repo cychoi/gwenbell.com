@@ -19,6 +19,3 @@ I could not pay people to say more honest shit about the work I do. I guess it [
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p>Just bought Git Commit <a href="http://t.co/NPzz96SfRB">http://t.co/NPzz96SfRB</a> by <a href="https://twitter.com/gwenbell">@gwenbell</a> holla! <a href="https://twitter.com/search?q=%23git&amp;src=hash">#git</a></p>&mdash; Michael Porter (@michael_porter) <a href="https://twitter.com/michael_porter/statuses/339538668509343745">May 29, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p>The collected works of <a href="https://twitter.com/gwenbell">@gwenbell</a> is on sale. I highly recommend it: <a href="http://t.co/SPBS57g480">http://t.co/SPBS57g480</a></p>&mdash; Braid Creative (@BraidCreative) <a href="https://twitter.com/BraidCreative/statuses/339435720898924544">May 28, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
