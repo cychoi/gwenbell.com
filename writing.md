@@ -1,9 +1,65 @@
 ###Writing
 
-<a href="#polylog">Polylog</a> | <a href="#flatiron">Flatiron School</a> | <a href="#genius">The Genius in You</a>
+<a href="#roundhouse">The Roundhouse</a><a href="#polylog">Polylog</a> | <a href="#flatiron">Flatiron School</a> | <a href="#genius">The Genius in You</a>
 
 
 <blockquote>The state of mind which enables a man to do work of this kind is akin to that of the religious worshipper or lover. The daily effort comes from no deliberate intention or program, but straight from the heart. - Albert Einstein</blockquote>
+
+<a name="roundhouse">The Roundhouse</a>
+
+I first time I published about The Gwendolyn Roundhouse in 2006, on Zaadz. Zaadz means seed in dutch and it was a site that got bought and ruined by a large company. When it was tiny, it was an amazing, thriving place for freaks and geeks.
+
+I wrote about the Roundhouse in 2006, and published it to Zaadz. Here's what I wrote:
+
+<p><mark>(posted to Zaadz May 17, 2006)</mark></p>
+<p>Hi everyone,</p>
+<p>This is Gwen.&nbsp; I'm new here and wanted to say hello and introduce myself briefly.</p>
+<p>I'm originally from the States but have lived in Japan the past three years and am now in the business of building        <em> sangha </em> through yoga, weekly meditation sessions at the studio &amp; offering health/ healing resource info to the community!&nbsp; Whew.&nbsp; The studio website is:&nbsp; Yoga Garden </a> and I build that site, too. The studio is a vision-in-progress and a goal realized for me.&nbsp; I opened it when I was 23 and in the year since it opened have grown so much with it.&nbsp; Even the studio's motto, &ldquo;grow with it,&rdquo; reflects my life-philosophy.&nbsp; So, you can do it.&nbsp; Every one of you!&nbsp; And that's why I'm at Zaadz, to uplift &amp; encourage!&nbsp; To plant &amp; water seeds!</p>
+<p>I have a long-term and longer-term project that I'd like to share with you all.&nbsp; 
+
+The long-term project is to build the        <strong> Gwendolyn Round House </strong> .&nbsp; This is my first time to publicly share this, so it's going to take a moment to explain.&nbsp; The concept is simple.&nbsp; I'd like the house to be round, with no corners&mdash;the base is round, like a circle, and the walls are curved and go straight up (the roof is covered with solar paneling and windows to let in natural light&mdash;how I'm going to curve them is still being thought-out).&nbsp; Not like the Epcot center or even a <a title="GDH" href="http://www.naturalspacesdomes.com/" target="_blank"> geodesic dome home </a> , although the GDH will give you an idea of what I'd like to create.&nbsp; 
+
+I'd like the house to be built with the principles laid out in <em> Voluntary Simplicity </em> , by Duane Elgin.&nbsp; Basically, the inside will not have doors to divide rooms, but moveable partitions, <em> a la </em> Japanese sliding shoji.&nbsp; The energy in the house will move freely, no stuck feeling.&nbsp;</p>
+
+<mark>The Roundhouse, 2013 update (where things get exciting)</mark>
+
+When I lived in Norwich in the Year of Our Lord 2000, I made a sketch of my dream home. I hadn't lived in Japan. I had never taken an architecture course (still haven't) and I sketched what I called The Gwendolyn Roundhouse.
+
+My Italian housemate, an architect (for realzies - he went to school in Italy for a full fucking 8 years) comes home and I go, "Roberto. Let me show you my dream home. You wanna see it?"
+
+And he goes, "Yes! Of course!"
+
+And I pull out this piece of paper with a drawing on it I created a full 13 years ago while living in a tiny dorm room in England. I hadn't been to Japan. I was barely off my mother's breast, you know. Like that twee.
+
+Still, I knew what I wanted my home to look like someday. So I sketched it in that tiny shitty horrible dorm room at UEA. And then, Roberto goes, "Ok. Gwen. Here's what I want for you to do for me. You get a pen, ok. And you trace these lines so I can see them."
+
+So then I traced that whole thing, the Gwendolyn Roundhouse. Line by line, and I found out how I used to write my gs and as, how I used to bear down with my pen. And then I said to Roberto, is this crazy? Like is this too custom? The roof would have to have rounded glass, that's tinted...the technology wasn't there yet in 2000, but I bet it's there now.
+
+And he goes, "Sure sure. This is great. You don't have an architect's mind so you...how do you say it...you don't know what's not possible."
+
+Over the next three days he 3D rendered it for me. My dream home.
+
+13 years after I drew it. (That's why it looks so beat up. I just threw away this sketch today, because Roberto upgraded me!)
+
+<img src="/images/2000-gwendolynroundhouse.jpg">
+
+So then I emailed back one of my readers who does ancient book refurbs whose work I've never understood. 
+
+<a href="http://roaming-initiative.com/mediagoblin/mgoblin_media/media_entries/89/roberto-roundhouse.webm">Listen to our conversation</a>.
+
+<img src="/images/2013-gwendolynroundhouse.jpg">
+
+I said: now I get what you do.
+
+Dreams don't die. People do.
+
+*
+
+One of my dreams is to bring all my dreams into the world. In so doing I help as many people as I can bring theirs into the world. How do I do that? As a listener, writer, speaker, teacher and apprentice.
+
+Is this work something you'd like to keep receiving? Please support it with [sustainable, recurring donations](http://gittip.com/gwenbell).
+
+<br />
 
 <a name="polylog"></a>
 
