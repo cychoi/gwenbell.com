@@ -1,25 +1,31 @@
 ###Writing
 
-<a href="#roundhouse">The Roundhouse</a><a href="#polylog">Polylog</a> | <a href="#flatiron">Flatiron School</a> | <a href="#genius">The Genius in You</a>
+<a href="#roundhouse">The Roundhouse</a> | <a href="#polylog">Polylog</a> | <a href="#flatiron">Flatiron School</a> | <a href="#genius">The Genius in You</a>
 
 
 <blockquote>The state of mind which enables a man to do work of this kind is akin to that of the religious worshipper or lover. The daily effort comes from no deliberate intention or program, but straight from the heart. - Albert Einstein</blockquote>
 
-<a name="roundhouse">The Roundhouse</a>
+<a name="roundhouse"></a>
 
-I first time I published about The Gwendolyn Roundhouse in 2006, on Zaadz. Zaadz means seed in dutch and it was a site that got bought and ruined by a large company. When it was tiny, it was an amazing, thriving place for freaks and geeks.
+####The Roundhouse
 
-I wrote about the Roundhouse in 2006, and published it to Zaadz. Here's what I wrote:
+I first published to the web about The Gwendolyn Roundhouse in 2006. I published to a site called Zaadz. Zaadz means seed in dutch and it was a site that got bought and ruined by a large company. As a tiny seed it was an amazing, thriving place for freaks and geeks.
 
-<p><mark>(posted to Zaadz May 17, 2006)</mark></p>
-<p>Hi everyone,</p>
-<p>This is Gwen.&nbsp; I'm new here and wanted to say hello and introduce myself briefly.</p>
-<p>I'm originally from the States but have lived in Japan the past three years and am now in the business of building        <em> sangha </em> through yoga, weekly meditation sessions at the studio &amp; offering health/ healing resource info to the community!&nbsp; Whew.&nbsp; The studio website is:&nbsp; Yoga Garden </a> and I build that site, too. The studio is a vision-in-progress and a goal realized for me.&nbsp; I opened it when I was 23 and in the year since it opened have grown so much with it.&nbsp; Even the studio's motto, &ldquo;grow with it,&rdquo; reflects my life-philosophy.&nbsp; So, you can do it.&nbsp; Every one of you!&nbsp; And that's why I'm at Zaadz, to uplift &amp; encourage!&nbsp; To plant &amp; water seeds!</p>
-<p>I have a long-term and longer-term project that I'd like to share with you all.&nbsp; 
+<mark>Posted to Zaadz May 17, 2006</mark>
 
-The long-term project is to build the        <strong> Gwendolyn Round House </strong> .&nbsp; This is my first time to publicly share this, so it's going to take a moment to explain.&nbsp; The concept is simple.&nbsp; I'd like the house to be round, with no corners&mdash;the base is round, like a circle, and the walls are curved and go straight up (the roof is covered with solar paneling and windows to let in natural light&mdash;how I'm going to curve them is still being thought-out).&nbsp; Not like the Epcot center or even a <a title="GDH" href="http://www.naturalspacesdomes.com/" target="_blank"> geodesic dome home </a> , although the GDH will give you an idea of what I'd like to create.&nbsp; 
+Hi everyone,
 
-I'd like the house to be built with the principles laid out in <em> Voluntary Simplicity </em> , by Duane Elgin.&nbsp; Basically, the inside will not have doors to divide rooms, but moveable partitions, <em> a la </em> Japanese sliding shoji.&nbsp; The energy in the house will move freely, no stuck feeling.&nbsp;</p>
+This is Gwen. I'm new here and wanted to say hello and introduce myself briefly.
+
+I'm originally from the States but have lived in Japan the past three years and am now in the business of building sangha through yoga, weekly meditation sessions at the studio offering health/ healing resource info to the community! Whew. The studio website is Yoga Garden and I build that site, too.
+
+The studio is a vision-in-progress and a goal realized for me. I opened it when I was 23 and in the year since it opened have grown so much with it. Even the studio's motto, grow with it, reflects my life-philosophy. So, you can do it. Every one of you! And that's why I'm at Zaadz, to uplift, encourage! To plant and water seeds!
+
+I have a long-term and longer-term project that I'd like to share with you all.
+
+The long-term project is to build the **Gwendolyn Round House**. This is my first time to publicly share this, so it's going to take a moment to explain. The concept is simple. I'd like the house to be round, with no corners, the base is round, like a circle, and the walls are curved and go straight up (the roof is covered with solar paneling and windows to let in natural light, how I'm going to curve them is still being thought-out). Not like the Epcot center or even a <a title="GDH" href="http://www.naturalspacesdomes.com/" target="_blank"> geodesic dome home </a> , although the GDH will give you an idea of what I'd like to create.
+
+I'd like the house to be built with the principles laid out in <em> Voluntary Simplicity </em> , by Duane Elgin. Basically, the inside will not have doors to divide rooms, but moveable partitions, <em> a la </em> Japanese sliding shoji. The energy in the house will move freely, no stuck feeling.&nbsp;</p>
 
 <mark>The Roundhouse, 2013 update (where things get exciting)</mark>
 
@@ -29,7 +35,11 @@ My Italian housemate, an architect (for realzies - he went to school in Italy fo
 
 And he goes, "Yes! Of course!"
 
-And I pull out this piece of paper with a drawing on it I created a full 13 years ago while living in a tiny dorm room in England. I hadn't been to Japan. I was barely off my mother's breast, you know. Like that twee.
+And I pull out this piece of paper with a drawing on it I created a full 13 years ago while living in a tiny dorm room in England.
+
+<img src="/images/2000-gwendolynroundhouse.jpg">
+
+I hadn't been to Japan. I was barely off my mother's breast, you know. Like that twee.
 
 Still, I knew what I wanted my home to look like someday. So I sketched it in that tiny shitty horrible dorm room at UEA. And then, Roberto goes, "Ok. Gwen. Here's what I want for you to do for me. You get a pen, ok. And you trace these lines so I can see them."
 
@@ -39,26 +49,23 @@ And he goes, "Sure sure. This is great. You don't have an architect's mind so yo
 
 Over the next three days he 3D rendered it for me. My dream home.
 
-13 years after I drew it. (That's why it looks so beat up. I just threw away this sketch today, because Roberto upgraded me!)
+13 years after I drew it.
 
-<img src="/images/2000-gwendolynroundhouse.jpg">
-
-So then I emailed back one of my readers who does ancient book refurbs whose work I've never understood. 
-
-<a href="http://roaming-initiative.com/mediagoblin/mgoblin_media/media_entries/89/roberto-roundhouse.webm">Listen to our conversation</a>.
+<a href="http://roaming-initiative.com/mediagoblin/mgoblin_media/media_entries/89/roberto-roundhouse.webm">Listen to audio of our conversation</a>.
 
 <img src="/images/2013-gwendolynroundhouse.jpg">
 
-I said: now I get what you do.
+After the conversation with Roberto, I emailed back one of my readers who does ancient book refurbs. I never understood why he helps people hold on to long-dead people's books. I said _now I get what you do_.
 
 Dreams don't die. People do.
 
 *
 
-One of my dreams is to bring all my dreams into the world. In so doing I help as many people as I can bring theirs into the world. How do I do that? As a listener, writer, speaker, teacher and apprentice.
+Alberto's technical skills coupled with my inability to acknowledge something might be impossible, is slowly bringing the Roundhouse into reality. As Roberto said, I don't know what's not possible. More than that, I don't acknowledge what might not be possible.
 
-Is this work something you'd like to keep receiving? Please support it with [sustainable, recurring donations](http://gittip.com/gwenbell).
+One of my ongoing dreams and practices is to bring all my dreams into the world, no matter how impossible it might seem or how long takes. In so doing, on my path, I help as many people as I can bring their dreams into the world. How do I do that? I listen, write, speak, teach and apprentice. And, I don't take no for an answer if it really matters to me.
 
+<mark>Is this work something you'd like to keep hearing about? Please support the genius in me with [sustainable, recurring donations](http://gittip.com/gwenbell).</mark>
 <br />
 
 <a name="polylog"></a>
