@@ -3,8 +3,6 @@ Endorsements
 
 ####June 2013
 
-I could not pay people to say more honest shit about the work I do. I guess it [goes both ways](https://www.gittip.com/gwenbell/horn/). I didn't pay them, and they buy my work, and they don't get a cut of what I make. Still, they say some things in public I should probably be paying them to say.
-
 <blockquote class="twitter-tweet" data-conversation="none" data-partner="tweetdeck"><p><a href="https://twitter.com/gwenbell">@gwenbell</a> Thank you for Terminal. So many words that I needed to read right now.</p>&mdash; Kelly / Kelspace  (@Kel_everyday) <a href="https://twitter.com/Kel_everyday/statuses/345926769397862401">June 15, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

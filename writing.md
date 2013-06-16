@@ -55,7 +55,9 @@ Over the next three days he 3D rendered it for me. My dream home.
 
 <img src="/images/2013-gwendolynroundhouse.jpg">
 
-After the conversation with Roberto, I emailed back one of my readers who does ancient book refurbs. I never understood why he helps people hold on to long-dead people's books. I said _now I get what you do_.
+After the conversation with Roberto, I emailed [a reader who does rare book conservation](http://bibliopathologist.com/). I never understood why he helps people hold on to long-dead people's books. 
+
+I said _now I get what you do_.
 
 Dreams don't die. People do.
 
