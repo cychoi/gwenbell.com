@@ -11,31 +11,37 @@
 
 When I lived in Norwich in the Year of Our Lord 2000, I made a sketch of my dream home. I hadn't lived in Japan. I had never taken an architecture course (still haven't) and I sketched what I called The Gwendolyn Roundhouse.
 
-My Italian housemate, an architect (for realzies - he went to school in Italy for a full fucking 8 years) comes home and I go, "Roberto. Let me show you my dream home. You wanna see it?"
+My Italian housemate, an architect (for realzies - he went to school in Italy for a full fucking 8 years) comes home this week.
 
-And he goes, "Yes! Of course!"
+**Me** Roberto. Let me show you my dream home. You wanna see it?
 
-And I pull out this piece of paper with a drawing on it I created a full 13 years ago while living in a tiny dorm room in England.
+**Roberto** Yes! Of course!
+
+I pull out the piece of paper with a drawing on it I created a full 13 years ago while living in a tiny dorm room in England. I've been carrying it with me for 13 years, and everything I own fits into one bag, so it must be important.
 
 <img src="/images/2000-gwendolynroundhouse.jpg">
 
-I hadn't been to Japan. I was barely off my mother's breast, you know. Like that twee.
+When I sketched this, I hadn't been to Japan. I was barely off my mother's breast, you know. That twee.
 
-Still, I knew what I wanted my home to look like. I sketched it in that tiny shitty horrible dorm room at UEA. And then, Roberto goes, "Ok. Gwen. Here's what I want for you to do for me. You get a pen, ok. And you trace these lines so I can see them."
+Still. I knew what I wanted my home to look like. I sketched it in that tiny shitty horrible dorm room at UEA. 
 
-I traced that whole thing, the Gwendolyn Roundhouse. Line by line, and I found out how I used to write my gs and as, how I used to bear down with my pen. And then I said to Roberto, is this crazy? Like is this too custom? The roof would have to have rounded glass, that's tinted...the technology wasn't there yet in 2000, but I bet it's there now.
+**Roberto** Ok. Gwen. Here's what I want for you to do for me. You get a pen, ok. And you trace these lines so I can see them.
 
-And he goes, "Sure sure. This is great. You don't have an architect's mind so you...how do you say it...you don't know what's not possible."
+I sat down right then. I traced the whole thing, the Gwendolyn Roundhouse. Line by line. And I found out how I used to write my gs and as, how I used to bear down with my pen.
+
+Then I go: is this crazy? Like is this too custom? The roof would have to have rounded glass that's tinted during the day and dark for privacy at night...the technology wasn't there yet in 2000, but I bet it's there now.
+
+And he goes, "Sure sure, Gwen. This is great. You don't have an architect's mind so you...how do you say it...you don't know what's not possible."
 
 Over the next three days he 3D rendered it for me. My dream home.
 
 13 years after I drew it.
 
-<a href="http://roaming-initiative.com/mediagoblin/mgoblin_media/media_entries/89/roberto-roundhouse.webm">Listen to audio of our conversation</a>.
+<a href="http://roaming-initiative.com/mediagoblin/mgoblin_media/media_entries/89/roberto-roundhouse.webm">Listen in on our conversation</a>.
 
 <img src="/images/2013-gwendolynroundhouse.jpg">
 
-After the conversation with Roberto, I emailed [a reader who does rare book conservation](http://bibliopathologist.com/). I never understood why he helps people hold on to long-dead people's books. 
+After I talked with Roberto, I emailed [a reader who does rare book conservation](http://bibliopathologist.com/). I never understood why he helps people hold on to long-dead people's books. 
 
 I said _now I get what you do_.
 
@@ -43,7 +49,7 @@ Dreams don't die. People do.
 
 *
 
-Alberto's technical skills coupled with my inability to acknowledge something might be impossible, is slowly bringing the Roundhouse into reality. As Roberto said, I don't know what's not possible. More than that, I don't acknowledge what might not be possible.
+Alberto's technical skills coupled with my inability to acknowledge something might be impossible, is bringing the Roundhouse into reality.
 
 <mark>Support the impossible with [sustainable, recurring donations](http://gittip.com/gwenbell).</mark>
 <br />
