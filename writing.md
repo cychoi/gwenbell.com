@@ -9,26 +9,6 @@
 
 ####The Roundhouse
 
-I first published to the web about The Gwendolyn Roundhouse in 2006. I published to a site called Zaadz. Zaadz means seed in dutch and it was a site that got bought and ruined by a large company. As a tiny seed it was an amazing, thriving place for freaks and geeks.
-
-<mark>Posted to Zaadz May 17, 2006</mark>
-
-Hi everyone,
-
-This is Gwen. I'm new here and wanted to say hello and introduce myself briefly.
-
-I'm originally from the States but have lived in Japan the past three years and am now in the business of building sangha through yoga, weekly meditation sessions at the studio offering health/ healing resource info to the community! Whew. The studio website is Yoga Garden and I build that site, too.
-
-The studio is a vision-in-progress and a goal realized for me. I opened it when I was 23 and in the year since it opened have grown so much with it. Even the studio's motto, grow with it, reflects my life-philosophy. So, you can do it. Every one of you! And that's why I'm at Zaadz, to uplift, encourage! To plant and water seeds!
-
-I have a long-term and longer-term project that I'd like to share with you all.
-
-The long-term project is to build the **Gwendolyn Round House**. This is my first time to publicly share this, so it's going to take a moment to explain. The concept is simple. I'd like the house to be round, with no corners, the base is round, like a circle, and the walls are curved and go straight up (the roof is covered with solar paneling and windows to let in natural light, how I'm going to curve them is still being thought-out). Not like the Epcot center or even a <a title="GDH" href="http://www.naturalspacesdomes.com/" target="_blank"> geodesic dome home </a> , although the GDH will give you an idea of what I'd like to create.
-
-I'd like the house to be built with the principles laid out in <em> Voluntary Simplicity </em> , by Duane Elgin. Basically, the inside will not have doors to divide rooms, but moveable partitions, <em> a la </em> Japanese sliding shoji. The energy in the house will move freely, no stuck feeling.&nbsp;</p>
-
-<mark>The Roundhouse, 2013 update (where things get exciting)</mark>
-
 When I lived in Norwich in the Year of Our Lord 2000, I made a sketch of my dream home. I hadn't lived in Japan. I had never taken an architecture course (still haven't) and I sketched what I called The Gwendolyn Roundhouse.
 
 My Italian housemate, an architect (for realzies - he went to school in Italy for a full fucking 8 years) comes home and I go, "Roberto. Let me show you my dream home. You wanna see it?"
@@ -41,9 +21,9 @@ And I pull out this piece of paper with a drawing on it I created a full 13 year
 
 I hadn't been to Japan. I was barely off my mother's breast, you know. Like that twee.
 
-Still, I knew what I wanted my home to look like someday. So I sketched it in that tiny shitty horrible dorm room at UEA. And then, Roberto goes, "Ok. Gwen. Here's what I want for you to do for me. You get a pen, ok. And you trace these lines so I can see them."
+Still, I knew what I wanted my home to look like. I sketched it in that tiny shitty horrible dorm room at UEA. And then, Roberto goes, "Ok. Gwen. Here's what I want for you to do for me. You get a pen, ok. And you trace these lines so I can see them."
 
-So then I traced that whole thing, the Gwendolyn Roundhouse. Line by line, and I found out how I used to write my gs and as, how I used to bear down with my pen. And then I said to Roberto, is this crazy? Like is this too custom? The roof would have to have rounded glass, that's tinted...the technology wasn't there yet in 2000, but I bet it's there now.
+I traced that whole thing, the Gwendolyn Roundhouse. Line by line, and I found out how I used to write my gs and as, how I used to bear down with my pen. And then I said to Roberto, is this crazy? Like is this too custom? The roof would have to have rounded glass, that's tinted...the technology wasn't there yet in 2000, but I bet it's there now.
 
 And he goes, "Sure sure. This is great. You don't have an architect's mind so you...how do you say it...you don't know what's not possible."
 
@@ -65,9 +45,7 @@ Dreams don't die. People do.
 
 Alberto's technical skills coupled with my inability to acknowledge something might be impossible, is slowly bringing the Roundhouse into reality. As Roberto said, I don't know what's not possible. More than that, I don't acknowledge what might not be possible.
 
-One of my ongoing dreams and practices is to bring all my dreams into the world, no matter how impossible it might seem or how long takes. In so doing, on my path, I help as many people as I can bring their dreams into the world. How do I do that? I listen, write, speak, teach and apprentice. And, I don't take no for an answer if it really matters to me.
-
-<mark>Is this work something you'd like to keep hearing about? Please support the genius in me with [sustainable, recurring donations](http://gittip.com/gwenbell).</mark>
+<mark>Support the impossible with [sustainable, recurring donations](http://gittip.com/gwenbell).</mark>
 <br />
 
 <a name="polylog"></a>
@@ -138,7 +116,9 @@ So, I'm bringing two worlds I respect together here. The analytical world on the
 
 + Learning, then teaching something hard
 
-I'll keep adding to the polylog as it occurs to me to do so. For now, I gotta go do lesson four of Learn Python the Hard Way. Because that's what Gittip is built on, Python. And I get pleasure from contributing to the open source world.
++ Sweat,  no deo
+
++ Mountain Hare Krishna by Krishna Das 
 
 **Wayback machine (unpublished until June 2013): Jan 2011**
 
