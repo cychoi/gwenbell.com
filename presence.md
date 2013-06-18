@@ -3,15 +3,13 @@
 Presence
 --------
 
-_Presence was a limited-time offering. It's no longer for sale. If you'd like to support the work I do, I accept financial contributions on [gittip](http://gittip.com/gwenbell)._
+_Presence was a limited-time offering. It's no longer for sale. If you'd like to support the work I do, contribute to this distributed genius grant with [gittip](http://gittip.com/gwenbell)._
 
 ### What is presence?
 
 Presence is everything you need to unhook from digital drama, delete what you don't need anymore, take a digital sabbatical, mourn the loss of old technologies and lay the foundation to learn harder tech skills, like Git and Node.
 
 It's a distillation of the best I've offered over the past three years. The journey starts in Boulder, Colorado and ends in Brooklyn, New York. 
-
-Presence includes as a bonus my most recent work, Terminal.
 
 ***
 
@@ -21,9 +19,13 @@ Presence includes as a bonus my most recent work, Terminal.
 
 #### Gwen Bell | June 2013
 
-I talk with faeries and dead people. Maybe that's why when you poogle me - please, I implore you, give that up for [duckduckgo](http://duckduckgo.com) - it auto-fills to 'gwen bell crazy'. Well, if I'm crazy, that's great. I like reporting back what I hear on the astral plane. I did that in Terminal. Biggie Smalls visited. I interviewed my mom. Steve Jobs wrote the intro. Shit's real, yo.
+I talk with faeries and dead people. Maybe that's why when you poogle me it auto-fills to 'gwen bell crazy'. Well, if I'm crazy, that's great but please, I implore you, give that search engine up for [duckduckgo](http://duckduckgo.com). 
 
-In its own weird way, Terminal offers the why of computing as you read the how of [Git Commit](http://git.gwenbell.com). I cover thirty days on the command line in Git Commit. Before you even approach the terminal, you have to have some idea why the terminal exists and why it matters. If you don't already have the why, you got that in Terminal.
+I like reporting back what I hear on the astral plane. I did that in Terminal. Biggie Smalls visited. I interviewed my mom. Steve Jobs wrote the intro. Shit's real, yo.
+
+In its own weird way, Terminal offers the why of computing as you read the how of [Git Commit](http://git.gwenbell.com). I cover thirty days on the command line/terminal in Git Commit. Before you even approach the terminal, you have to have some idea why it exists and why it matters.
+
+Terminal is a philosophical reflection on why it, and we, are here.
 
 ***
 
@@ -43,8 +45,6 @@ The second version of Digital Warriorship features new experiments in paying bet
 #### Gwen Bell | March 2012
 
 Reverb started as #best09 in 2009 and became #reverb10 in 2010. From hundreds of participants in the first year, to thousands in year two, the project reverberated through the web. It generated over 1,000 pages of tweets in just one month. Reverb's the story of how that, and other successful reverberations, happened.
-
-As of 2013, one of my readers noted I don't reverb. I just _verb_. Which...was pretty sweet of her to notice and say.
 
 ***
 
@@ -68,11 +68,13 @@ The original version included a guided version - I watched, shared observations 
 
 To be present for others, first see and hear yourself. 
 
-Align your real self with your digital self. My path from scrolling for empathy to taking digital sabbaticals and what I learned. Here's an introduction to start developing your presence.
+Align your real self with your digital self. My path from scrolling for empathy to taking digital sabbaticals. This was my first paid offering. An introduction to start developing your presence.
 
 ***
 
-I would never have become a programmer if I hadn't done the things that I rolled into _Presence_. It's every conversation, every experiment, every resource - everything I used to get to where I am now, doing what I love every day. I wrote everything here to 
+I would never have become a programmer if I hadn't done the things that I rolled into _Presence_. It's every conversation, every experiment, every resource - everything I used to get to where I am now, doing what I love every day.
+
+I've phased out Presence to focus on deeper technical skills. If you'd like to financially support this work, please do so by giving to this [distributed genius grant](https://www.gittip.com/gwenbell/).
 
 <img src="images/gwenbell-may-2013.jpg" style="width: 20%; float: left; margin-right: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;">
 
