@@ -1,21 +1,19 @@
-###Welcome
+####Konnichiwa bitches.
 
-Hey there. I'm Gwen Bell. I git push origin master and publish technical writing from cafes all over Brooklyn and Manhattan, New York. 
+I'm Gwen Bell. I git push origin master and publish technical writing from cafes all over Brooklyn and Manhattan, New York. 
 
-Started career as yoga studio owner in Japan, traveled entire globe twice, motherless daughter who outlived her mom, whole and broken open. 
+Started career as yoga studio owner in Japan. Traveled globe twice, second time out of one bag. Motherless daughter, outlived my mom. Whole and broken open. Blank slate, in love with everything. When I die my epitepht will read: did the work.
 
-Blank slate, in love with everything. Above all, doing the work. 
+####The work
 
-###The Work
-
-I earn my living from readers, supporters and micropatrons who have read and engaged with my work the past decade. This work doesn't exist without them.
+What's the work? Varies. Always includes: programming, learning, reading, teaching and walking 10 miles round trip (Brooklyn->Manhattan - my grandfather Bub thinks I'm nuts). This work grows because you support it.
 
 <script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script>
 
 <blockquote class="twitter-tweet"><p>The best, cheapest ad spot on the planet right now is the center column on <a href="https://twitter.com/Gittip">@gittip</a>.</p>&mdash; Gwen Bell (@gwenbell) <a href="https://twitter.com/gwenbell/statuses/347027510573289473">June 18, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-###Stoicism and the Art of Computer Maintenance
+####Read on
 
 <script type="text/javascript" language="JavaScript" src="http://gwenbell.us7.list-manage1.com/subscriber-count?b=36&u=ac10ba0f-6fd2-4627-94f8-530415f47ff6&id=354f3e7685"></script>
 
