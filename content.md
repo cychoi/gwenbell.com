@@ -2,7 +2,7 @@
 
 I'm Gwen Bell. I git push origin master and publish technical writing from cafes all over Brooklyn and Manhattan, New York. 
 
-Started career as yoga studio owner in Japan. Traveled globe twice, second time out of one bag. Motherless daughter, outlived my mom. Whole and broken open. Blank slate, in love with everything. When I die my epitepht will read: did the work.
+Started career as yoga studio owner in Japan. Traveled globe twice, second time out of one bag. Motherless daughter, outlived my mom. Whole and broken open. Blank slate, in love with everything. When I die my epitaph will read: **did the work**.
 
 ####The work
 
