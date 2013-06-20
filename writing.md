@@ -2,7 +2,6 @@
 
 <a href="#roundhouse">The Roundhouse</a> | <a href="#polylog">Polylog</a> | <a href="#flatiron">Flatiron School</a> | <a href="#genius">The Genius in You</a>
 
-
 <blockquote>The state of mind which enables a man to do work of this kind is akin to that of the religious worshipper or lover. The daily effort comes from no deliberate intention or program, but straight from the heart. - Albert Einstein</blockquote>
 
 <a name="roundhouse"></a>
