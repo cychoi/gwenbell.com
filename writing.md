@@ -1,10 +1,54 @@
 ###Writing
 
-<a href="#roundhouse">The Roundhouse</a> | <a href="#polylog">Polylog</a> | <a href="#flatiron">Flatiron School</a> | <a href="#genius">The Genius in You</a>
+<a href="#shut">Shut It Down</a> | <a href="#roundhouse">The Roundhouse</a> | <a href="#polylog">Polylog</a> | <a href="#flatiron">Flatiron School</a> | <a href="#genius">The Genius in You</a>
 
 <blockquote>The state of mind which enables a man to do work of this kind is akin to that of the religious worshipper or lover. The daily effort comes from no deliberate intention or program, but straight from the heart. - Albert Einstein</blockquote>
 
+<a name="shut"></a>
+
+####Shut it Down - a note from Roslynn Tellvik 
+
+i loved reverb. i want to read presence and terminal. i will git commit at some point. thank you for writing them all. you'll get to 500/wk on gittip. i wish it was by the support of more women but that's only because i wish more women were showing up and shutting it down. write whatever you want.
+
+i'm going to nyc next week. you mention nyc in your emails. i feel more connected to the city because of that which is cool. thanks.
+
+i'm starting a business with my lover. we are making botanical syrups for sparkling water and cocktails because people settle for sweet things but they need real things. why can't you have both? and drinks are fun to make and share. i am doing the storytelling and ambassadoring. she is the food scientist with a family background in chinese herbal medicine.
+
+you wrote about <a href="/writing#genius">total buy-in</a>. i fucking needed to hear that. and i was like, why does gwen bell's writing make me want to read more and more? and then i was like, because she doesn't baby or bullshit you and you can totally take it. and then you feel stronger and then you are clearer.
+
+i'm a long way (but a short time) from flowing-spring-clear. i want to get there. it's in me to be that. my inner faerie badass told me this morning that the way from here to there is action. do something. say something. that resonates. i'm tired of holding in waiting for external buy-in. it's boring and wearying. i'm scared too. what will i think? who cares? no really, who cares? if I care what I think then I'm sure I'll work something out with myself. haha
+
+so yeah, i want to read presence. and terminal. in the meantime i'll read the war of art. and commit. cuz i'm ready to own my own stack. starting with truth.
+
+shut it down gwen bell.
+
+roslynn
+
+from a cube in portland oregon
+
+**This note shared with permission from Roslynn Tellvik. Shut it Down refers to this 16 June 2013 letter:**
+
+I was standing in the living room of The Schoolhouse. This platinum-haired pixie of a woman, about my height, about my weight, about my intensity, with elaborate eye sprinkles on crashes into the room, "I'm shutting this place down," she says to nobody in particular.
+
+I look around. Nobody seemed alarmed but me. I was all, "damn, the party must be good for it to get shut down by a faerie princess."
+
+No, she wasn't an undercover. She was about to go on stage on the next level up of The Schoolhouse. She was assuring everyone present she was about to shut it the fuck down.
+
+Someone pinged me yesterday about how to grow her audience. I said get off Tumblr. She was all, duh, I knew that. And what I was saying, and am saying is, shut it down. Like, close down all the shitty websites you no longer update. Kill off your Tumblr. Destroy all those precious selfies you got up on Instagram. Shut it down.
+
+Then, you won't have to ask my advice about how to shut it down. You will walk into whatever room you next enter and you will say, "I'm shutting this place down," and then, you will.
+
+In case you haven't noticed, I'm shutting it down on Gittip. And before the end of the weekend, I'm going to break three digits. Trip, trip, trip. Get in there because you're going to want to be able to say, "I was there, and Gwen Bell shut it down."
+
+_Gwen_
+
+<p><script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script></p>
+
+**Growing? Great. Grow the gittips!**
+
 <a name="roundhouse"></a>
+
+<hr />
 
 ####The Roundhouse
 
