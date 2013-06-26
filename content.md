@@ -1,28 +1,19 @@
 ####Konnichiwa bitches.
 
-I'm Gwen Bell. I git push origin master and publish technical writing from cafes all over Brooklyn and Manhattan, New York. 
+I'm Gwen Bell. I git push origin master and publish technical writing from cafes all over Brooklyn and Manhattan, New York. That photo of me is from Sayulita, Mexico. At the time I didn't know Git. Had I known it, I probably wouldn't have left the beach.
 
 Started career as yoga studio owner in Japan. Traveled globe twice, second time out of one bag. Motherless daughter, outlived my mom. Whole and broken open. Blank slate, in love with everything. When I die my epitaph will read: **did the work**.
 
-####The work
+If you want to be added to my list of people I contact when I publish new things contact me with
 
-What's the work? Varies. Always includes: programming, learning, reading, teaching and walking 10 miles round trip (Brooklyn->Manhattan - my grandfather Bub thinks I'm nuts). This work grows because you support it.
+1.  Your first and last name
+2.  Where you live
+3.  What you're working on right now
+4.  How the work I'm doing can support the work you do
+
+Questions too hard? This isn't the right list for you.
 
 <script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script>
 
 <blockquote class="twitter-tweet"><p>The best, cheapest ad spot on the planet right now is the center column on <a href="https://twitter.com/Gittip">@gittip</a>.</p>&mdash; Gwen Bell (@gwenbell) <a href="https://twitter.com/gwenbell/statuses/347027510573289473">June 18, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-####Read on
-
-<script type="text/javascript" language="JavaScript" src="http://gwenbell.us7.list-manage1.com/subscriber-count?b=36&u=ac10ba0f-6fd2-4627-94f8-530415f47ff6&id=354f3e7685"></script>
-
-<div id="mc_embed_signup">
-<form action="http://gwenbell.us7.list-manage2.com/subscribe/post?u=9a3b9ea24469d6d86a5bd1626&amp;id=354f3e7685" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-	
-<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="you@yourname.com" required style="float: left; margin-right: .2em; margin-top: 1px;">
-
-<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-
-</form>
-</div>
