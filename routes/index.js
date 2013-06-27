@@ -30,3 +30,7 @@ res.render('presence', { title: 'Presence'});
 exports.writing = function(req, res){
 res.render('writing', { title: 'Writing'});
 };
+
+exports.bests = function(req, res){
+res.render('bests', { title: 'Bests'});
+};
