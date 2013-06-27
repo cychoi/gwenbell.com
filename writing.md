@@ -6,7 +6,7 @@
 
 <a name="shut"></a>
 
-####Shut it Down - a note from Roslynn Tellvik 
+####Shut it Down - a note from [Roslynn Tellvik](https://twitter.com/RoslynnTellvik) 
 
 i loved reverb. i want to read presence and terminal. i will git commit at some point. thank you for writing them all. you'll get to 500/wk on gittip. i wish it was by the support of more women but that's only because i wish more women were showing up and shutting it down. write whatever you want.
 
