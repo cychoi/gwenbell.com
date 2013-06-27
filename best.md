@@ -1,6 +1,6 @@
 ###Best
 
-<blockquote>I would like, instead, to be concerned with the question "What is best?", a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream. [...] Some channel deepending seems called for. - Robert M. Pirsig</blockquote>
+<blockquote>I would like, instead, to be concerned with the question "What is best?", a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream. - Robert M. Pirsig</blockquote>
 
 Everything I own fits into one bag. I travel best when I travel light. What's best? I'll list it here.
 
