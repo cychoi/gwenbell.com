@@ -4,8 +4,7 @@
 
 Everything I own fits into one bag. I travel best when I travel light. What's best? I'll list it here.
 
-I receive no compensation for recommendations. If something improves your life and you'd like to say thanks, [gittip](http://gittip.com/gwenbell) me.
-
+I don't do pay-to-recommend. If something improves your life and you'd like to say thanks, [gittip](http://gittip.com/gwenbell) me.
 
 ####Places
 
@@ -49,6 +48,8 @@ Recently, I've loved
 
 Pretty much all I listen to right now is the new Kanye. Hate me, I don't care. 
 
+I also love Wale's Bad. Though, yeah. Kanye.
+
 ####Movies
 
 +  Kung Fu Hustle
@@ -56,8 +57,6 @@ Pretty much all I listen to right now is the new Kanye. Hate me, I don't care.
 +  The Dictator (banned in at least 12 countries)
 
 ####TV
-
-I have only watched two shows in the past year. They are both amazing.
 
 +  Six Feet Under
 +  The Wire
