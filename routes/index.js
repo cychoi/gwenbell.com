@@ -31,6 +31,6 @@ exports.writing = function(req, res){
 res.render('writing', { title: 'Writing'});
 };
 
-exports.bests = function(req, res){
-res.render('bests', { title: 'Bests'});
+exports.best = function(req, res){
+res.render('best', { title: 'Best'});
 };
