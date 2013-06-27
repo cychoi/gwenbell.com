@@ -10,7 +10,7 @@ I don't do pay-to-recommend. If something improves your life and you'd like to s
 
 +  [Essaouira, Morocco](https://en.wikipedia.org/wiki/Essaouira) (when you get in the cab from Marrakech, be sure to pronounce the r firmly otherwise you'll end up in Essouaila like an idiot, and you will be hot and mad and not at the beach) I learned to surf in Essaouira. Jimi Hendrix did, too. Or, anyway. He played guitar there.
 +  [Kyoto, Japan](https://en.wikipedia.org/wiki/Kyoto) Skip the temples and shrines. Find the hippie van with the tent in the back.
-+  [Yokohama, Japan](https://en.wikipedia.org/wiki/Yokohama) I lived here for three years. That doesn't make me an expert, but it does make me deeply familiar. If you're visiting, ping me for specific-to-you recs.
++  [Yokohama, Japan](https://en.wikipedia.org/wiki/Yokohama) I opened my yoga studio and lived in Yokohama for three years. That doesn't make me an expert, but it does make me deeply familiar. If you're visiting, ping me for specific-to-you recs.
 +  [Dingle Peninsula Ireland](https://en.wikipedia.org/wiki/Dingle_peninsula) Here there be faeries.
 +  New York City  
 +  [Sevilla, Spain](https://en.wikipedia.org/wiki/Sevilla,_Spain). If you roll into Spain from Morocco (Tangiers), you'll take a water taxi type thing. The Moroccan crowd is not accustomed to traveling on water. Prepare for puke in the bathroom. Pack appropriate footwear.
@@ -47,8 +47,6 @@ Recently, I've loved
 ####Music
 
 Pretty much all I listen to right now is the new Kanye. Hate me, I don't care. 
-
-I also love Wale's Bad. Though, yeah. Kanye.
 
 ####Movies
 
