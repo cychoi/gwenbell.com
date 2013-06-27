@@ -32,7 +32,7 @@ app.get('/about', routes.about);
 app.get('/presence', routes.presence);
 app.get('/responses', routes.responses);
 app.get('/writing', routes.writing);
-app.get('/bests', routes.bests);
+app.get('/best', routes.best);
 app.get('*', routes.index);
 
 http.createServer(app).listen(app.get('port'), function(){
