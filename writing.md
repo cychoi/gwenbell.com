@@ -1,9 +1,38 @@
 ###Writing
 
-<a href="#shut">Shut It Down</a> | <a href="#roundhouse">The Roundhouse</a> | <a href="#polylog">Polylog</a> | <a href="#flatiron">Flatiron School</a> | <a href="#genius">The Genius in You</a>
+<a href="#deadright">Dead Right</a> | <a href="#shut">Shut It Down</a> | <a href="#roundhouse">The Roundhouse</a> | <a href="#polylog">Polylog</a> | <a href="#flatiron">Flatiron School</a> | <a href="#genius">The Genius in You</a>
 
 <blockquote>The state of mind which enables a man to do work of this kind is akin to that of the religious worshipper or lover. The daily effort comes from no deliberate intention or program, but straight from the heart. - Albert Einstein</blockquote>
 
+<a name="deadright"></a>
+
+####Dead Right
+
+Bub woke me up at an ungodly hour when I was learning to drive. He wanted to be sure I could drive stick, in addition to the fancier kind of car you might drive. I think the word for it is 'automatic' or 'lazy man car'. 
+
+He would roll up banging on my bedroom door at like 6 on a Saturday and I would take my sweet time getting up. And when I drove, I was terrible at it and always stalling. But the point was at first, when I got to four-way stops, I never knew what to do. Usually stall. Eventually, I became a 'better' driver and I would just haul ass at those four way stops. One time Bub goes, 'honey, watch out. You can be dead right.' 
+
+That is why I gave up driving. I always felt a hair's breadth from dead...right.
+
+The goal was [$500 by the end of June](http://gittip.com/gwenbell). We didn't get there. But something did happen this month, way bigger than you or me and you'd have to be living in a Farraday cage to not know about it.
+
+All that I did over the past three years. Unplugging to think about what I was publishing, where and why. Deleting my Fuckbook way before the pitiful IPO. Selling my iPhone for cash two years ago. Running around without a phone ever since. Learning to program. Learning to peer into open source and handling Node and JavaScript. 
+
+I was right, though not as dead right as [Hemingway](http://www.nytimes.com/2011/07/02/opinion/02hotchner.html?_r=0&pagewanted=print). I was right to do it. I was right to stop speaking to groups about the social web. I was right to shift gears to privacy and [distributed everything](https://medium.com/@venportman).
+
+And, I was dead right. I had to kill off my business to get here.
+
+If I'd kept up the stuff that was paying, one it probably wouldn't pay anymore, two, I'd be in BJ Mendelson's cross-hairs and three, I would have failed the people who read and engage with the work I do. Instead, I bottomed out financially this time last year in Berlin. And I know it probably sounds crazy, and it felt awful then, and...I am glad I did. 
+Had I not died (not in the sense Hemingway died...no coming back from that). Had I not killed off the parts that were starting to smell funny. Had I not trusted my gut. I wouldn't be here now, doing what I do, and starting to see the numbers slowly, slowly climb back up to stable levels. 
+
+This week I installed Ubuntu again. 13.04. I'm composing this message in Vim. I've switched off Sublime Text, even. Over the course of June I've gotten dozens of messages saying 'write about the tech. Tell me about your adventures with Python.' So. Starting July 1, 2013, that is the writing focus. I told you at the start of the month personal stories are great but they don't pay the bills. 
+
+That hypothesis has turned out to be true. That doesn't mean personal stories, blog posts and strong storytelling is worthless. Though, yes, compared to the worth that kind of writing carried in 2003, it is worth less. The numbers have spoken, and I am listening. Those of you currently gittipping me have been in touch to say, 'keep writing about technology, help me keep moving on that front.' 
+
+Again, a page out of Bub's book. When he asks, as he always does when I call, 'honey, you makin' any money?' I can answer, 'Get out your magnifying glass and [check for yourself](http://gittip.com/gwenbell).'
+
+If you want to read more technical writing, demonstrate with financial support, through [Gittip](http://gittip.com/gwenbell), which is built on Python. Which is why I'm learning Python.
+<hr />
 <a name="shut"></a>
 
 ####Shut it Down - a note from [Roslynn Tellvik](https://twitter.com/RoslynnTellvik) 
