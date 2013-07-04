@@ -1,39 +1,8 @@
 ###Writing
 
-<a href="#deadright">Dead Right</a> | <a href="#shut">Shut It Down</a> | <a href="#roundhouse">The Roundhouse</a> | <a href="#polylog">Polylog</a> | <a href="#flatiron">Flatiron School</a> | <a href="#genius">The Genius in You</a>
-
 <blockquote>The state of mind which enables a man to do work of this kind is akin to that of the religious worshipper or lover. The daily effort comes from no deliberate intention or program, but straight from the heart. - Albert Einstein</blockquote>
 
-<a name="deadright"></a>
-
-####Dead Right
-
-Bub woke me up at an ungodly hour when I was learning to drive. He wanted to be sure I could drive stick, in addition to the fancier kind of car you might drive. I think the word for it is 'automatic' or 'lazy man car'. 
-
-He would roll up banging on my bedroom door at like 6 on a Saturday and I would take my sweet time getting up. And when I drove, I was terrible at it and always stalling. But the point was at first, when I got to four-way stops, I never knew what to do. Usually stall. Eventually, I became a 'better' driver and I would just haul ass at those four way stops. One time Bub goes, 'honey, watch out. You can be dead right.' 
-
-That is why I gave up driving. I always felt a hair's breadth from dead...right.
-
-The goal was [$500 by the end of June](http://gittip.com/gwenbell). We didn't get there. But something did happen this month, way bigger than you or me and you'd have to be living in a Farraday cage to not know about it.
-
-All that I did over the past three years. Unplugging to think about what I was publishing, where and why. Deleting my Fuckbook way before the pitiful IPO. Selling my iPhone for cash two years ago. Running around without a phone ever since. Learning to program. Learning to peer into open source and handling Node and JavaScript. 
-
-I was right, though not as dead right as [Hemingway](http://www.nytimes.com/2011/07/02/opinion/02hotchner.html?_r=0&pagewanted=print). I was right to do it. I was right to stop speaking to groups about the social web. I was right to shift gears to privacy and [distributed everything](https://medium.com/@venportman).
-
-And, I was dead right. I had to kill off my business to get here.
-
-If I'd kept up the stuff that was paying, one it probably wouldn't pay anymore, two, I'd be in BJ Mendelson's cross-hairs and three, I would have failed the people who read and engage with the work I do. Instead, I bottomed out financially this time last year in Berlin. And I know it probably sounds crazy, and it felt awful then, and...I am glad I did. 
-Had I not died (not in the sense Hemingway died...no coming back from that). Had I not killed off the parts that were starting to smell funny. Had I not trusted my gut. I wouldn't be here now, doing what I do, and starting to see the numbers slowly, slowly climb back up to stable levels. 
-
-This week I installed Ubuntu again. 13.04. I'm composing this message in Vim. I've switched off Sublime Text, even. Over the course of June I've gotten dozens of messages saying 'write about the tech. Tell me about your adventures with Python.' So. Starting July 1, 2013, that is the writing focus. I told you at the start of the month personal stories are great but they don't pay the bills. 
-
-That hypothesis has turned out to be true. That doesn't mean personal stories, blog posts and strong storytelling is worthless. Though, yes, compared to the worth that kind of writing carried in 2003, it is worth less. The numbers have spoken, and I am listening. Those of you currently gittipping me have been in touch to say, 'keep writing about technology, help me keep moving on that front.' 
-
-Again, a page out of Bub's book. When he asks, as he always does when I call, 'honey, you makin' any money?' I can answer, 'Get out your magnifying glass and [check for yourself](http://gittip.com/gwenbell).'
-
-If you want to read more technical writing, demonstrate with financial support, through [Gittip](http://gittip.com/gwenbell), which is built on Python. Which is why I'm learning Python.
 <hr />
-<a name="shut"></a>
 
 ####Shut it Down - a note from [Roslynn Tellvik](https://twitter.com/RoslynnTellvik) 
 
@@ -71,62 +40,8 @@ In case you haven't noticed, I'm shutting it down on Gittip. And before the end 
 
 _Gwen_
 
-<p><script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script></p>
 
-**Growing? Great. Grow the gittips!**
 
-<a name="roundhouse"></a>
-
-<hr />
-
-####The Roundhouse
-
-When I lived in Norwich in the Year of Our Lord 2000, I made a sketch of my dream home. I hadn't lived in Japan. I had never taken an architecture course (still haven't) and I sketched what I called The Gwendolyn Roundhouse.
-
-My Italian housemate, an architect (for realzies - he went to school in Italy for a full fucking 8 years) comes home this week.
-
-**Me** Roberto. Let me show you my dream home. You wanna see it?
-
-**Roberto** Yes! Of course!
-
-I pull out the piece of paper with a drawing on it I created a full 13 years ago while living in a tiny dorm room in England. I've been carrying it with me for 13 years, and everything I own fits into one bag, so it must be important.
-
-<img src="/images/2000-gwendolynroundhouse.jpg">
-
-When I sketched this, I hadn't been to Japan. I was barely off my mother's breast, you know. That twee.
-
-Still. I knew what I wanted my home to look like. I sketched it in that tiny shitty horrible dorm room at UEA. 
-
-**Roberto** Ok. Gwen. Here's what I want for you to do for me. You get a pen, ok. And you trace these lines so I can see them.
-
-I sat down right then. I traced the whole thing, the Gwendolyn Roundhouse. Line by line. And I found out how I used to write my gs and as, how I used to bear down with my pen.
-
-Then I go: is this crazy? Like is this too custom? The roof would have to have rounded glass that's tinted during the day and dark for privacy at night...the technology wasn't there yet in 2000, but I bet it's there now.
-
-And he goes, "Sure sure, Gwen. This is great. You don't have an architect's mind so you...how do you say it...you don't know what's not possible."
-
-Over the next three days he 3D rendered it for me. My dream home.
-
-13 years after I drew it.
-
-<a href="http://roaming-initiative.com/mediagoblin/mgoblin_media/media_entries/89/roberto-roundhouse.webm">Listen in on our conversation</a>.
-
-<img src="/images/2013-gwendolynroundhouse.jpg">
-
-After I talked with Roberto, I emailed [a reader who does rare book conservation](http://bibliopathologist.com/). I never understood why he helps people hold on to long-dead people's books. 
-
-I said _now I get what you do_.
-
-Dreams don't die. People do.
-
-*
-
-Alberto's technical skills coupled with my inability to acknowledge something might be impossible, is bringing the Roundhouse into reality.
-
-<mark>Support the impossible with [sustainable, recurring donations](http://gittip.com/gwenbell).</mark>
-<br />
-
-<a name="polylog"></a>
 
 <hr />
 
@@ -172,10 +87,6 @@ So, I'm bringing two worlds I respect together here. The analytical world on the
 
 ####June 2013 Polylog: Things that turn me on (not all examples of compersion) updated 14 June 2013
 
-+ [Bad](http://rapgenius.com/Wale-bad-lyrics). I love this song right now. Wale (pronounced wah-lay) gets it. Tiara Thomas gets it. Fucking sexy.
-
-+ Dreads. Long dreads that smell like earth. Maybe Wale started or continues a trend.
-
 + Rooftop dance parties in Brooklyn. Yahahahah.
 
 + When someone says they read something I wrote and it lit them up
@@ -183,8 +94,6 @@ So, I'm bringing two worlds I respect together here. The analytical world on the
 + Drinking just-off-the-boil espresso from a tiny sake cup
 
 + Tiny gardens, hidden in nooks in huge cities. Like leaves growing in cracks in the pavement.
-
-+ Talking with dead people. I was grateful to write Terminal last month. Grateful the faeries were willing to act as medium
 
 + Nina Simone's voice
 
@@ -194,53 +103,9 @@ So, I'm bringing two worlds I respect together here. The analytical world on the
 
 + Learning, then teaching something hard
 
-+ Sweat,  no deo
++ Sweat, no deo
 
-+ Mountain Hare Krishna by Krishna Das 
-
-**Wayback machine (unpublished until June 2013): Jan 2011**
-
-I have an amazing amount of clarity right now. Thing about clarity is the moment I start talking about it, like flow, it's gone. But I still want to write while I'm in this place, without saying "oh, that wasn't that clear oh that wasn't really that indicative of clarity."
-
-Just as I am, on the spot. Here's what I've got.
-
-I keep trying to trace it back. Was it when Ev showed up. Was it the Digital Sabbatical. Was it when I stopped wearing my ring and thinking about myself as trapped in a marriage. Was it a place? Was it a phrase? Was it a book? Was it the Sakyong? Was it a decade of practice finally clicking into place? 
-
-Whatever it was, here it is. Here I am.
-
-Each day an empty cup. Each decision from a place of clarity.
-
-If it feels muddled I walk away, I reapproach.
-
-Was it shredding my journals? Was it the blank slate? Was it stopping thinking about myself in a particular fixed-notion way?
-
-The blank slate allowed me to see the labels I'd applied to myself. Now I'm asking which ones still work. Which work is the work. Which way the way.
-
-And what I'm seeing is there is only one way: presence.
-
-Cultivating [presence](http://gwenbell.com/presence) not for some reward. Not for material or spiritual gain. But just cultivating presence. Speaking from a place closer to the source, closer to the truth. Always, closer to truth.
-
-That place of truth presents itself endlessly. I have failed to notice before, but I fail to notice less now.
-
-Committing only in alignment, never in duress, never out of a sense of obligation.
-
-Not one sentence longer than obligated.
-
-<p><script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script></p>
-
-**Growing? Great. Grow the gittips!**
-
-<a name="flatiron"></a>
-
-<hr />
-
-####Flatiron
-
-The peeps at Flatiron School hosted me yesterday to give a talk on [Git and Horcruxes](https://twitter.com/aviflombaum/status/342449132566364160).
-
-Peep [the pic and interview](http://blog.flatironschool.com/post/52299707175/guest-speaker-gwen-bell)!
-
-<a name="genius"></a>
++ Headphones made of reclaimed wood
 
 <hr />
 
@@ -252,14 +117,6 @@ I watched Synecdoche, New York. Then I walked from Brooklyn to Manhattan as the 
 
 [Ev](http://evbogue.com) suggested Synecdoche because he knows my love for intense programming. 
 
-My two favorite shows of all time are Six Feet Under and The Wire. 
-
-I watched all six seasons as I learned to program in 2012. I thank the last episode of the final season for getting me to New York.
-
-My other favorite show is The Wire, which I almost gave up on during the first episode because I was bored stiff. I stayed with it only because Madeleine Forbes and Ev were all, "give it a chance, man," and now I love it.
-
-<hr />
-
 The other reason Ev suggested Synecdoche is since the start of the week I've given a lot of thought to genius grants. These things actually exist. They're called MacArthur Fellowships. It's all anonymous, which is also true for [Gittip](http://gittip.com). I view Gittip as distributed, peer-to-peer genius grants. Lots of people supporting each other financially so they can work on and do what they love. Those who have more to give, contribute more. Those who are doing the work and need more support, get more.
 
 In Synecdoche, the main character, Caden Cotard (played by Philip Seymour Hoffman) is given one such genius grant. Though in his case it's not distributed. It's a lump-sum from higher up, rather than little bits from lots of people. His is vertical to Gittip's horizontal. He goes from getting by to having so much income he can do whatever he wants with his time and never thinks about earning again. 
@@ -267,8 +124,6 @@ In Synecdoche, the main character, Caden Cotard (played by Philip Seymour Hoffma
 He lets the part of his brain stamped EARN take a permanent vacation.
 
 Sounds great! But when you think about it, especially if you've watched The Wire, you know what I mean when I say The Hustle gives you Purpose. The drive to get some product out the door gives you laser-like focus, and without the boundaries of 'you're running out of cashmoney', you've got to get that pushback from _somewhere_.
-
-<hr />
 
 Caden Cotard is tragic - not semi-tragic, not kinda pathetic melancholy in an Eternal Sunshine kinda way. No, I find him flat-out tragic. This play he's making, funded by the genius grant, goes on for most of eternity, and I don't want to spoil the plot, but there's really no saving graces to this guy. I keep wanting for there to be. But with unlimited funding, it's like he has a permanent case of The Resistance.
 
@@ -278,7 +133,7 @@ Pressfield covered, in a slim volume, basically every kind of cop out, every exc
 
 That has almost, but not quite, worked out. 
 
-Anyway, Caden has The Resistance (which, by the way, is contagious), but there's something more pernicious at play. He spends the duration of the film trying to get buy-in. From anybody. His wife, his second wife, his daughter, the people in the play he's staging. He wants them to say: you're an alright kinda guy Caden. You're doing your best. And even when they _do_ say that, he never takes it to heart. He keeps berating himself, wishing he could get _total buy-in_ from _the whole world_. Failing that, he keeps plugging on this play, trying to get _it_ perfect. (Trying to get it perfect is a symptom of the Resistance. You have to hit publish, even if you think it's shit, which you always will. Think it's shit, that is.)
+Caden has The Resistance (which, by the way, is contagious), but there's something more pernicious at play. He spends the duration of the film trying to get buy-in. From anybody. His wife, his second wife, his daughter, the people in the play he's staging. He wants them to say: you're an alright kinda guy Caden. You're doing your best. And even when they _do_ say that, he never takes it to heart. He keeps berating himself, wishing he could get _total buy-in_ from _the whole world_. Failing that, he keeps plugging on this play, trying to get _it_ perfect. (Trying to get it perfect is a symptom of the Resistance. You have to hit publish, even if you think it's shit, which you always will. Think it's shit, that is.)
 
 **The only person who can give you total buy-in on your life is you.**
 
@@ -318,6 +173,3 @@ Because the person who has to demonstrate total buy-in is me.
 
 And I do.
 
-<p><script data-gittip-username="gwenbell" src="https://www.gittip.com/assets/widgets/0002.js"></script></p>
-
-**Growing? Great. Grow the gittips!**
